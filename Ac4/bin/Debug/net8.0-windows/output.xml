@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Comarcas>
+  <ComarcaItem>
+    <CodComarca>1</CodComarca>
+    <Comarca>ALT CAMP, L'</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>2</CodComarca>
+    <Comarca>ALT EMPORDÀ, L'</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>3</CodComarca>
+    <Comarca>ALT PENEDÈS, L'</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>4</CodComarca>
+    <Comarca>ALT URGELL, L'</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>5</CodComarca>
+    <Comarca>ALTA RIBAGORÇA, L'</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>6</CodComarca>
+    <Comarca>ANOIA, L'</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>7</CodComarca>
+    <Comarca>BAGES, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>8</CodComarca>
+    <Comarca>BAIX CAMP, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>9</CodComarca>
+    <Comarca>BAIX EBRE, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>10</CodComarca>
+    <Comarca>BAIX EMPORDÀ, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>11</CodComarca>
+    <Comarca>BAIX LLOBREGAT, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>12</CodComarca>
+    <Comarca>BAIX PENEDÈS, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>13</CodComarca>
+    <Comarca>BARCELONÈS, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>14</CodComarca>
+    <Comarca>BERGUEDÀ, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>15</CodComarca>
+    <Comarca>CERDANYA, LA</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>16</CodComarca>
+    <Comarca>CONCA DE BARBERÀ, LA</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>17</CodComarca>
+    <Comarca>GARRAF, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>18</CodComarca>
+    <Comarca>GARRIGUES, LES</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>19</CodComarca>
+    <Comarca>GARROTXA, LA</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>20</CodComarca>
+    <Comarca>GIRONÈS, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>21</CodComarca>
+    <Comarca>MARESME, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>42</CodComarca>
+    <Comarca>Moianès</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>22</CodComarca>
+    <Comarca>MONTSIÀ, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>23</CodComarca>
+    <Comarca>NOGUERA, LA</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>24</CodComarca>
+    <Comarca>OSONA</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>25</CodComarca>
+    <Comarca>PALLARS JUSSÀ, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>26</CodComarca>
+    <Comarca>PALLARS SOBIRÀ, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>27</CodComarca>
+    <Comarca>PLA D'URGELL, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>28</CodComarca>
+    <Comarca>PLA DE L'ESTANY, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>29</CodComarca>
+    <Comarca>PRIORAT, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>30</CodComarca>
+    <Comarca>RIBERA D'EBRE, LA</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>31</CodComarca>
+    <Comarca>RIPOLLÈS, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>32</CodComarca>
+    <Comarca>SEGARRA, LA</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>33</CodComarca>
+    <Comarca>SEGRIÀ, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>34</CodComarca>
+    <Comarca>SELVA, LA</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>35</CodComarca>
+    <Comarca>SOLSONÈS, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>36</CodComarca>
+    <Comarca>TARRAGONÈS, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>37</CodComarca>
+    <Comarca>TERRA ALTA</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>38</CodComarca>
+    <Comarca>URGELL, L'</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>39</CodComarca>
+    <Comarca>VAL D'ARAN, LA</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>40</CodComarca>
+    <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
+  </ComarcaItem>
+  <ComarcaItem>
+    <CodComarca>41</CodComarca>
+    <Comarca>VALLÈS ORIENTAL, EL</Comarca>
+  </ComarcaItem>
+</Comarcas>
